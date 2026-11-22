@@ -21,11 +21,11 @@ A number here that the census does not have is a suite nobody has vendored yet, 
 
 ## The run
 
-* **Taken** — 2026-11-21 06:36 UTC
+* **Taken** — 2026-11-22 06:40 UTC
 * **Jint** — [`f3cdbc1fc5e4`](https://github.com/sebastienros/jint/commit/f3cdbc1fc5e4dc05b40706f7d199e6fe3478d98a)
 * **web-platform-tests** — [`6c7127bdd9f2`](https://github.com/web-platform-tests/wpt/commit/6c7127bdd9f2cc6a3668fd9791757843e09d5a9e)
-* **Wall time** — 134 min
-* **Workflow run** — [log and `wptreport.json`](https://github.com/larsbaunwall/jint/actions/runs/44865522297)
+* **Wall time** — 137 min
+* **Workflow run** — [log and `wptreport.json`](https://github.com/larsbaunwall/jint/actions/runs/44984558616)
 * **Product** — `jint_browser`
 
 **138547 of 146846 subtests pass** (94.3%), over 3316 files.
@@ -58,7 +58,7 @@ that the totals above cannot be read as a verdict on the engine's DOM.
 | dedicated worker | 346 | 0 | 343 | 0 | 3 | 0 | 0 | 0 | 0 | — |
 | document | 2279 | 1703 | 128 | 290 | 158 | 132599 | 126495 | 5000 | 1104 | 95.4% |
 | service worker | 100 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | — |
-| shared worker | 122 | 97 | 22 | 1 | 2 | 1785 | 1233 | 551 | 1 | 69.1% |
-| window (generated) | 469 | 405 | 35 | 23 | 6 | 12462 | 10819 | 1574 | 69 | 86.8% |
+| shared worker | 122 | 97 | 22 | 1 | 2 | 1785 | 1231 | 553 | 1 | 69.0% |
+| window (generated) | 469 | 405 | 35 | 23 | 6 | 12462 | 10821 | 1572 | 69 | 86.8% |
 | **total** | 3316 | 2205 | 528 | 314 | 269 | 146846 | 138547 | 7125 | 1174 | 94.3% |
 
