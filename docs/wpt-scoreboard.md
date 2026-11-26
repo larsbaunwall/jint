@@ -21,14 +21,14 @@ A number here that the census does not have is a suite nobody has vendored yet, 
 
 ## The run
 
-* **Taken** — 2026-11-25 06:37 UTC
+* **Taken** — 2026-11-26 06:38 UTC
 * **Jint** — [`f3cdbc1fc5e4`](https://github.com/sebastienros/jint/commit/f3cdbc1fc5e4dc05b40706f7d199e6fe3478d98a)
 * **web-platform-tests** — [`6c7127bdd9f2`](https://github.com/web-platform-tests/wpt/commit/6c7127bdd9f2cc6a3668fd9791757843e09d5a9e)
-* **Wall time** — 133 min
-* **Workflow run** — [log and `wptreport.json`](https://github.com/larsbaunwall/jint/actions/runs/45546232930)
+* **Wall time** — 135 min
+* **Workflow run** — [log and `wptreport.json`](https://github.com/larsbaunwall/jint/actions/runs/45754636709)
 * **Product** — `jint_browser`
 
-**138546 of 146846 subtests pass** (94.3%), over 3316 files.
+**138544 of 146846 subtests pass** (94.3%), over 3316 files.
 
 ## By suite
 
@@ -43,8 +43,8 @@ A number here that the census does not have is a suite nobody has vendored yet, 
 | html/semantics/scripting-1 | 577 | 435 | 37 | 99 | 6 | 3157 | 1758 | 1151 | 248 | 55.7% |
 | html/webappapis | 353 | 262 | 29 | 43 | 19 | 2656 | 1825 | 731 | 100 | 68.7% |
 | url | 77 | 41 | 28 | 8 | 0 | 8691 | 8288 | 390 | 13 | 95.4% |
-| xhr | 427 | 294 | 115 | 17 | 1 | 1630 | 1117 | 396 | 117 | 68.5% |
-| **total** | 3316 | 2205 | 528 | 314 | 269 | 146846 | 138546 | 7127 | 1173 | 94.3% |
+| xhr | 427 | 294 | 115 | 17 | 1 | 1630 | 1115 | 397 | 118 | 68.4% |
+| **total** | 3316 | 2205 | 528 | 314 | 269 | 146846 | 138544 | 7128 | 1174 | 94.3% |
 
 ## By what the case is
 
@@ -56,9 +56,9 @@ that the totals above cannot be read as a verdict on the engine's DOM.
 | Case | Files | OK | Error | Timeout | Skip | Subtests | Pass | Fail | Other | Pass rate |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | dedicated worker | 346 | 0 | 343 | 0 | 3 | 0 | 0 | 0 | 0 | — |
-| document | 2279 | 1703 | 128 | 290 | 158 | 132599 | 126494 | 5002 | 1103 | 95.4% |
+| document | 2279 | 1703 | 128 | 290 | 158 | 132599 | 126492 | 5003 | 1104 | 95.4% |
 | service worker | 100 | 0 | 0 | 0 | 100 | 0 | 0 | 0 | 0 | — |
-| shared worker | 122 | 97 | 22 | 1 | 2 | 1785 | 1232 | 552 | 1 | 69.0% |
-| window (generated) | 469 | 405 | 35 | 23 | 6 | 12462 | 10820 | 1573 | 69 | 86.8% |
-| **total** | 3316 | 2205 | 528 | 314 | 269 | 146846 | 138546 | 7127 | 1173 | 94.3% |
+| shared worker | 122 | 97 | 22 | 1 | 2 | 1785 | 1234 | 550 | 1 | 69.1% |
+| window (generated) | 469 | 405 | 35 | 23 | 6 | 12462 | 10818 | 1575 | 69 | 86.8% |
+| **total** | 3316 | 2205 | 528 | 314 | 269 | 146846 | 138544 | 7128 | 1174 | 94.3% |
 
